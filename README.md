@@ -2,11 +2,7 @@
 
 The moviedex api is a Thinkful excersise meant to give me experience creating / testing my own secure api. 
 
-## Links
-
-The API requires authorization via Bearer token and supports CORS
-
-### Using the Query Parameters
+## Using the Query Parameters
 The client can search the provided movie index by genre, country, or average vote using query string parameters. 
 
 <table>
@@ -35,3 +31,15 @@ The client can search the provided movie index by genre, country, or average vot
 </td>
 </tr>
 </table>
+
+
+## Sample The Api
+
+This project was never published anywhere, but you can use it by following these steps:
+
+1. View the repository and download the zip to your computer
+2. extract the files and open the extracted folder in VsCode 
+3. open a terminal and run the command `npm install && npm start`. This will get the api server up and running!
+4. make all fetch requests to http://localhost:3000/movies
+
+You can sample the api by making requests from https://web.postman.co/home, or create a client of your own! Whatever you try, I hope you have fun doing it.
