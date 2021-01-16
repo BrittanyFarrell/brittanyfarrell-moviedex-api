@@ -26,10 +26,18 @@ The client can search the provided movie index by genre, country, or average vot
 </tr>
 </table>
 
-![try the query ?genre=comedy](./images/readme/get-by-genre.png "Try the query ?genre=comedy")
-![try the query ?country=britain](./images/readme/get-by-country.png "Try the query ?country=britain")
-![try the query ?avg_vote=8](./images/readme/get-by-vote.png "Try the query ?avg_vote=8")
-## Sample The Api
+### Try the query ?genre=comedy
+![try the query ?genre=comedy](./images/readme/get-by-genre.png "")
+
+
+### Try the query ?country=britain
+![try the query ?country=britain](./images/readme/get-by-country.png "")
+
+
+### Try the query ?avg_vote=8
+![try the query ?avg_vote=8](./images/readme/get-by-vote.png "")
+
+## Sampling The Api
 
 This project was never published anywhere, but you can use it by following these steps:
 
