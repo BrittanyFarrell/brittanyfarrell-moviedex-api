@@ -10,23 +10,20 @@ The client can search the provided movie index by genre, country, or average vot
 <td valign="top" width="33%">
 <h2 align="center">By Genre</h2>
 <p>A movie will be sent in response if its genre value contains the string provided by a 'genre' query</p>
------------------------------
------------------------------
+![try the query ?genre=comedy](./images/readme/get-by-genre.png)
 
 </td>
 <td valign="top" width="34%">
 <h2 align="center">By Country</h2>
 <p>A movie will be sent in response if its country value contains the string provided by a 'country' query</p>
------------------------------
------------------------------
+![try the query ?country=britain](./images/readme/get-by-country.png)
   
 </td>
 
 <td valign="top" width="33%">
 <h2 align="center">By Average Vote</h2>
 <p>A movie will be sent in response if its average vote is higher than or equal to the number provided by an 'avg_vote' query</p>
------------------------------
------------------------------
+![try the query ?avg_vote=8](./images/readme/get-by-vote.png)
 
 </td>
 </tr>
